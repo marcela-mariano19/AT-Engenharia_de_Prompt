@@ -1,0 +1,19 @@
+{
+    "insights": [
+        {
+            "titulo": "Distribui\u00e7\u00e3o Assim\u00e9trica das Despesas",
+            "descricao": "A distribui\u00e7\u00e3o do valor l\u00edquido das despesas apresenta uma assimetria positiva, indicando que a maioria dos gastos concentra-se em valores mais baixos, enquanto um n\u00famero menor de despesas apresenta valores significativamente maiores.  Isso sugere a necessidade de uma an\u00e1lise mais aprofundada sobre as despesas de maior valor para identificar potenciais inconsist\u00eancias ou padr\u00f5es.",
+            "recomendacoes": "Investigar as despesas de maior valor para identificar poss\u00edveis irregularidades ou desvios. Implementar mecanismos de monitoramento mais eficazes para controlar as despesas de maior impacto."
+        },
+        {
+            "titulo": "Tipos de Despesas Predominantes",
+            "descricao": "A an\u00e1lise das despesas por tipo revela que alguns tipos de despesas s\u00e3o significativamente mais comuns do que outros.  Entender a propor\u00e7\u00e3o de cada tipo de despesa \u00e9 crucial para otimizar os recursos e garantir a transpar\u00eancia nos gastos p\u00fablicos.  \u00c9 necess\u00e1rio uma an\u00e1lise mais detalhada de cada tipo para identificar poss\u00edveis desequil\u00edbrios ou \u00e1reas onde a aloca\u00e7\u00e3o de recursos pode ser melhorada.",
+            "recomendacoes": "Realizar uma an\u00e1lise mais detalhada para verificar a adequa\u00e7\u00e3o dos gastos por tipo de despesa, identificando potenciais \u00e1reas para otimiza\u00e7\u00e3o.  Comparar os gastos com or\u00e7amentos pr\u00e9-estabelecidos para avaliar sua efici\u00eancia."
+        },
+        {
+            "titulo": "Tend\u00eancias Temporais das Despesas",
+            "descricao": "Observando a varia\u00e7\u00e3o das despesas ao longo do tempo, \u00e9 poss\u00edvel identificar poss\u00edveis tend\u00eancias sazonais ou outros padr\u00f5es.  Essa an\u00e1lise temporal contribui para a compreens\u00e3o do comportamento dos gastos, permitindo previs\u00f5es futuras e otimiza\u00e7\u00e3o da gest\u00e3o financeira.  A identifica\u00e7\u00e3o de picos ou quedas abruptas pode indicar eventos relevantes que precisam ser investigados.",
+            "recomendacoes": "Elaborar proje\u00e7\u00f5es de gastos com base nas tend\u00eancias identificadas para uma melhor gest\u00e3o or\u00e7ament\u00e1ria.  Investigar as causas de picos e quedas significativas nos gastos para garantir maior controle e transpar\u00eancia."
+        }
+    ]
+}
